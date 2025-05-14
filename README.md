@@ -27,11 +27,11 @@ This project is containerized using **two platforms**:
 ## PUSH TO GITHUB (Git Bash Commands Used)
 
 **git bash**
-- cd /c/Users/YourName/Desktop/ArtArchivesByAnkita**
-- git init**
-- git add .**
-- git commit -m**
-- git push**
+- cd /c/Users/YourName/Desktop/ArtArchivesByAnkita
+- git init
+- git add .
+- git commit -m
+- git push
 
 
 ---
