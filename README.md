@@ -27,11 +27,11 @@ This project is containerized using **two platforms**:
 ## PUSH TO GITHUB (Git Bash Commands Used)
 
 **git bash**
-**cd /c/Users/YourName/Desktop/ArtArchivesByAnkita**
-**git init**
-**git add .**
-**git commit -m**
-**git push**
+- cd /c/Users/YourName/Desktop/ArtArchivesByAnkita**
+- git init**
+- git add .**
+- git commit -m**
+- git push**
 
 
 ---
@@ -41,14 +41,14 @@ This project is containerized using **two platforms**:
 ### Docker
 
 **git bash**
-**docker build -t artarchives .**
-**docker run -d -p 8080:80 artarchives**
+- docker build -t artarchives .
+- docker run -d -p 8080:80 artarchives
 
 ### Podman
 
 **git bash**
-**podman build -t artarchives .**
-**podman run -d -p 8081:80 artarchives**
+- podman build -t artarchives .
+- podman run -d -p 8081:80 artarchives
 
 ---
 
